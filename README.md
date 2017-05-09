@@ -37,5 +37,5 @@ Success! Element with data greater than 100 deleted.
 ----- printLinkedList ----- 
  listCount = 2
 21 -> 14 -> 
------------------------------------ 
+---------------------------------- 
  
